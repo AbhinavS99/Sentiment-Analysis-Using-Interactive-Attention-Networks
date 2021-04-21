@@ -1,0 +1,38 @@
+# Laptop Train Dataset XML 
+laptop_train_dataset_xml : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\ABSA Train\Laptops_Train.xml'
+
+# Laptop Test Dataset XML
+laptop_test_dataset_xml : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\ABSA Test\Laptops_Test_Gold.xml'
+
+# Laptop Train Dataset TXT 
+laptop_train_dataset_txt : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\laptop_train.txt'
+
+# Laptop Test Dataset TXT
+laptop_test_dataset_txt : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\laptop_test.txt'
+
+# Restaurant Train Dataset XML
+rest_train_dataset_xml : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\ABSA Train\Restaurants_Train.xml'
+
+# Restaurant Test Dataset XML
+rest_test_dataset_xml : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\ABSA Test\Restaurants_Test_Gold.xml'
+
+# Restaurant Train Dataset TXT
+rest_train_dataset_txt : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\rest_train.txt'
+
+# Restaurant Test Dataset TXT
+rest_test_dataset_txt : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\rest_test.txt'
+
+# Laptop PKL Train dataset
+laptop_train_pkl : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\laptop_train.pkl'
+
+# Laptop PKL Test dataset
+laptop_test_pkl : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\laptop_test.pkl'
+
+# Restuarant PKL Train dataset
+rest_test_pkl : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\rest_test.pkl'
+
+# Restuarant PKL Test dataset
+rest_train_pkl : 'C:\Users\abhin\Desktop\dl4\Q2\Dataset\rest_train.pkl'
+
+# Glove Path
+glove : 'C:\Users\abhin\Desktop\IAN\data\glove.840B.300d.txt'
